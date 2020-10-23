@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demo-deploy"
+    }
+  },
+  "defaultProject": "demo-deploy",
+  "cli": {
+    "analytics": false
+  }
 }
